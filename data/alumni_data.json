@@ -1,0 +1,49 @@
+[
+  {
+    "id": "84fcb4d7-ffe9-42fe-804c-2b9a36acd6a4",
+    "nama": "Aldi Saputra",
+    "program_studi": "Teknik Informatika",
+    "tahun_lulus": "2027",
+    "bidang_keahlian": "Programmer",
+    "kota_asal": "Samarinda",
+    "status": "Perlu Verifikasi",
+    "last_monitored": null,
+    "next_monitor": null,
+    "created_at": "2026-04-16T21:39:25.675557",
+    "events": [],
+    "timeline": [],
+    "profile": {
+      "name_variations": [
+        "Aldi Saputra",
+        "Saputra Aldi",
+        "Aldi",
+        "aldi saputra"
+      ],
+      "field_keywords": [
+        "Programmer"
+      ],
+      "university_keywords": [
+        "Universitas Muhammadiyah Malang",
+        "UMM",
+        "Muhammadiyah Malang"
+      ],
+      "possible_professions": [
+        "software engineer",
+        "developer",
+        "programmer",
+        "data scientist",
+        "AI engineer"
+      ]
+    },
+    "queries": [
+      "\"Aldi Saputra\" \"Universitas Muhammadiyah Malang\"",
+      "\"Aldi Saputra\" published",
+      "\"Aldi Saputra\" Programmer",
+      "\"Aldi Saputra\" conference",
+      "\"Aldi Saputra\" Samarinda",
+      "\"Aldi Saputra\" LinkedIn",
+      "\"Aldi Saputra\" \"software engineer\"",
+      "\"Aldi Saputra\" \"developer\""
+    ]
+  }
+]
