@@ -71,3 +71,11 @@ alumni-monitor/
 | POST | `/api/monitor/all` | Monitoring semua alumni |
 | GET | `/api/stats` | Statistik dashboard |
 | POST | `/api/seed` | Isi data contoh |
+
+---
+
+## Link Web Publish
+
+```
+https://daily-project-3--alsaputra0912.replit.app
+```
